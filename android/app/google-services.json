@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219852505002",
+    "project_id": "awesomeweb3authproject-533ca",
+    "storage_bucket": "awesomeweb3authproject-533ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219852505002:android:c2424062115d2dc6bc35d3",
+        "android_client_info": {
+          "package_name": "com.awesomeweb3authproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219852505002-j7smksi9llrp41e3e19fdb2ck38s1rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY02ACbqymJdmfSDqgagDZZjbcanPgUaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219852505002-j7smksi9llrp41e3e19fdb2ck38s1rp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
